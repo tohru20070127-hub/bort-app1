@@ -1,0 +1,15 @@
+{
+"name": "競艇AI予想アプリ",
+"short_name": "競艇AI",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#0f172a",
+"theme_color": "#0f172a",
+"icons": [
+{
+"src": "https://img.icons8.com/color/192/speed-boat.png",
+"sizes": "192x192",
+"type": "image/png"
+}
+]
+}
